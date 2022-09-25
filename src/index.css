@@ -5,9 +5,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+table{
+  color: yellow;
+  background-color: blueviolet;
+  background-color: red;
+}
+
+tr{
+  color:pink;
+  background-color: blueviolet;
 }
